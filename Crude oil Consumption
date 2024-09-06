@@ -3,21 +3,21 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "992b3678",
+   "id": "4bc207b8",
    "metadata": {
     "_cell_guid": "b1076dfc-b9ad-4769-8c92-a6c4dae69d19",
     "_uuid": "8f2839f25d086af736a60e9eeb907d3b93b6e0e5",
     "execution": {
-     "iopub.execute_input": "2024-09-06T05:00:30.133755Z",
-     "iopub.status.busy": "2024-09-06T05:00:30.133211Z",
-     "iopub.status.idle": "2024-09-06T05:00:35.165779Z",
-     "shell.execute_reply": "2024-09-06T05:00:35.164634Z"
+     "iopub.execute_input": "2024-09-06T05:08:20.394665Z",
+     "iopub.status.busy": "2024-09-06T05:08:20.394215Z",
+     "iopub.status.idle": "2024-09-06T05:08:25.246910Z",
+     "shell.execute_reply": "2024-09-06T05:08:25.245689Z"
     },
     "papermill": {
-     "duration": 5.042779,
-     "end_time": "2024-09-06T05:00:35.168792",
+     "duration": 4.862429,
+     "end_time": "2024-09-06T05:08:25.249604",
      "exception": false,
-     "start_time": "2024-09-06T05:00:30.126013",
+     "start_time": "2024-09-06T05:08:20.387175",
      "status": "completed"
     },
     "tags": []
@@ -80,19 +80,19 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "a7278028",
+   "id": "03894d7f",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-09-06T05:00:35.180916Z",
-     "iopub.status.busy": "2024-09-06T05:00:35.180479Z",
-     "iopub.status.idle": "2024-09-06T05:00:35.232250Z",
-     "shell.execute_reply": "2024-09-06T05:00:35.231093Z"
+     "iopub.execute_input": "2024-09-06T05:08:25.260886Z",
+     "iopub.status.busy": "2024-09-06T05:08:25.260439Z",
+     "iopub.status.idle": "2024-09-06T05:08:25.308115Z",
+     "shell.execute_reply": "2024-09-06T05:08:25.306970Z"
     },
     "papermill": {
-     "duration": 0.060751,
-     "end_time": "2024-09-06T05:00:35.234828",
+     "duration": 0.055926,
+     "end_time": "2024-09-06T05:08:25.310474",
      "exception": false,
-     "start_time": "2024-09-06T05:00:35.174077",
+     "start_time": "2024-09-06T05:08:25.254548",
      "status": "completed"
     },
     "tags": []
@@ -230,19 +230,19 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "id": "0c94dacc",
+   "id": "870431da",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-09-06T05:00:35.246832Z",
-     "iopub.status.busy": "2024-09-06T05:00:35.246402Z",
-     "iopub.status.idle": "2024-09-06T05:00:35.274587Z",
-     "shell.execute_reply": "2024-09-06T05:00:35.273208Z"
+     "iopub.execute_input": "2024-09-06T05:08:25.322543Z",
+     "iopub.status.busy": "2024-09-06T05:08:25.322126Z",
+     "iopub.status.idle": "2024-09-06T05:08:25.346837Z",
+     "shell.execute_reply": "2024-09-06T05:08:25.345706Z"
     },
     "papermill": {
-     "duration": 0.037704,
-     "end_time": "2024-09-06T05:00:35.277659",
+     "duration": 0.03426,
+     "end_time": "2024-09-06T05:08:25.349738",
      "exception": false,
-     "start_time": "2024-09-06T05:00:35.239955",
+     "start_time": "2024-09-06T05:08:25.315478",
      "status": "completed"
     },
     "tags": []
@@ -279,19 +279,19 @@
   {
    "cell_type": "code",
    "execution_count": 4,
-   "id": "02103b73",
+   "id": "ae055b5d",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-09-06T05:00:35.290872Z",
-     "iopub.status.busy": "2024-09-06T05:00:35.290154Z",
-     "iopub.status.idle": "2024-09-06T05:00:35.298429Z",
-     "shell.execute_reply": "2024-09-06T05:00:35.297245Z"
+     "iopub.execute_input": "2024-09-06T05:08:25.361747Z",
+     "iopub.status.busy": "2024-09-06T05:08:25.361303Z",
+     "iopub.status.idle": "2024-09-06T05:08:25.368779Z",
+     "shell.execute_reply": "2024-09-06T05:08:25.367596Z"
     },
     "papermill": {
-     "duration": 0.018,
-     "end_time": "2024-09-06T05:00:35.301138",
+     "duration": 0.0164,
+     "end_time": "2024-09-06T05:08:25.371271",
      "exception": false,
-     "start_time": "2024-09-06T05:00:35.283138",
+     "start_time": "2024-09-06T05:08:25.354871",
      "status": "completed"
     },
     "tags": []
@@ -315,19 +315,19 @@
   {
    "cell_type": "code",
    "execution_count": 5,
-   "id": "b5919a5c",
+   "id": "66dfb5f4",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-09-06T05:00:35.313898Z",
-     "iopub.status.busy": "2024-09-06T05:00:35.313446Z",
-     "iopub.status.idle": "2024-09-06T05:00:35.347661Z",
-     "shell.execute_reply": "2024-09-06T05:00:35.346351Z"
+     "iopub.execute_input": "2024-09-06T05:08:25.383884Z",
+     "iopub.status.busy": "2024-09-06T05:08:25.383455Z",
+     "iopub.status.idle": "2024-09-06T05:08:25.418057Z",
+     "shell.execute_reply": "2024-09-06T05:08:25.416764Z"
     },
     "papermill": {
-     "duration": 0.043685,
-     "end_time": "2024-09-06T05:00:35.350259",
+     "duration": 0.044095,
+     "end_time": "2024-09-06T05:08:25.420687",
      "exception": false,
-     "start_time": "2024-09-06T05:00:35.306574",
+     "start_time": "2024-09-06T05:08:25.376592",
      "status": "completed"
     },
     "tags": []
@@ -452,19 +452,19 @@
   {
    "cell_type": "code",
    "execution_count": 6,
-   "id": "21f5edc3",
+   "id": "e30edd06",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-09-06T05:00:35.363773Z",
-     "iopub.status.busy": "2024-09-06T05:00:35.363332Z",
-     "iopub.status.idle": "2024-09-06T05:00:36.900604Z",
-     "shell.execute_reply": "2024-09-06T05:00:36.899226Z"
+     "iopub.execute_input": "2024-09-06T05:08:25.434111Z",
+     "iopub.status.busy": "2024-09-06T05:08:25.433622Z",
+     "iopub.status.idle": "2024-09-06T05:08:26.979692Z",
+     "shell.execute_reply": "2024-09-06T05:08:26.978526Z"
     },
     "papermill": {
-     "duration": 1.548809,
-     "end_time": "2024-09-06T05:00:36.905023",
+     "duration": 1.557578,
+     "end_time": "2024-09-06T05:08:26.983938",
      "exception": false,
-     "start_time": "2024-09-06T05:00:35.356214",
+     "start_time": "2024-09-06T05:08:25.426360",
      "status": "completed"
     },
     "tags": []
@@ -1985,9 +1985,9 @@
        }
       },
       "text/html": [
-       "<div>                            <div id=\"12812b0e-28ee-4a9f-93d7-deb5956b3eb0\" class=\"plotly-graph-div\" style=\"height:525px; width:100%;\"></div>            <script type=\"text/javascript\">                require([\"plotly\"], function(Plotly) {                    window.PLOTLYENV=window.PLOTLYENV || {};                                    if (document.getElementById(\"12812b0e-28ee-4a9f-93d7-deb5956b3eb0\")) {                    Plotly.newPlot(                        \"12812b0e-28ee-4a9f-93d7-deb5956b3eb0\",                        [{\"alignmentgroup\":\"True\",\"bingroup\":\"x\",\"hovertemplate\":\"VEHICLE CLASS=%{x}\\u003cbr\\u003ecount=%{y}\\u003cextra\\u003e\\u003c\\u002fextra\\u003e\",\"legendgroup\":\"\",\"marker\":{\"color\":\"#636efa\",\"pattern\":{\"shape\":\"\"}},\"name\":\"\",\"offsetgroup\":\"\",\"orientation\":\"v\",\"showlegend\":false,\"x\":[\"COMPACT\",\"COMPACT\",\"MID-SIZE\",\"MID-SIZE\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"MID-SIZE\",\"STATION WAGON - MID-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"COMPACT\",\"COMPACT\",\"MINICOMPACT\",\"MINICOMPACT\",\"TWO-SEATER\",\"TWO-SEATER\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"STATION WAGON - SMALL\",\"STATION WAGON - SMALL\",\"COMPACT\",\"COMPACT\",\"STATION WAGON - SMALL\",\"MID-SIZE\",\"FULL-SIZE\",\"FULL-SIZE\",\"TWO-SEATER\",\"MINICOMPACT\",\"COMPACT\",\"SUV\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"TWO-SEATER\",\"MID-SIZE\",\"FULL-SIZE\",\"FULL-SIZE\",\"FULL-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"FULL-SIZE\",\"MID-SIZE\",\"SUV\",\"MID-SIZE\",\"VAN - CARGO\",\"VAN - PASSENGER\",\"VAN - CARGO\",\"VAN - PASSENGER\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"VAN - CARGO\",\"VAN - CARGO\",\"VAN - CARGO\",\"VAN - PASSENGER\",\"VAN - PASSENGER\",\"VAN - PASSENGER\",\"FULL-SIZE\",\"FULL-SIZE\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"SUV\",\"MID-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"PICKUP TRUCK - SMALL\",\"PICKUP TRUCK - SMALL\",\"PICKUP TRUCK - SMALL\",\"PICKUP TRUCK - SMALL\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"MINIVAN\",\"FULL-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"FULL-SIZE\",\"FULL-SIZE\",\"FULL-SIZE\",\"FULL-SIZE\",\"FULL-SIZE\",\"FULL-SIZE\",\"FULL-SIZE\",\"COMPACT\",\"COMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"MINIVAN\",\"MINIVAN\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"STATION WAGON - SMALL\",\"STATION WAGON - SMALL\",\"MINIVAN\",\"MINIVAN\",\"MINIVAN\",\"MINIVAN\",\"MINIVAN\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"SUV\",\"SUV\",\"SUV\",\"MINIVAN\",\"MINIVAN\",\"MINIVAN\",\"MINIVAN\",\"MINIVAN\",\"MINIVAN\",\"MINIVAN\",\"MINIVAN\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"VAN - CARGO\",\"VAN - CARGO\",\"VAN - CARGO\",\"VAN - PASSENGER\",\"VAN - PASSENGER\",\"VAN - CARGO\",\"VAN - CARGO\",\"VAN - CARGO\",\"VAN - PASSENGER\",\"VAN - PASSENGER\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"TWO-SEATER\",\"TWO-SEATER\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"FULL-SIZE\",\"VAN - PASSENGER\",\"VAN - PASSENGER\",\"VAN - PASSENGER\",\"VAN - CARGO\",\"VAN - CARGO\",\"VAN - CARGO\",\"VAN - CARGO\",\"VAN - CARGO\",\"COMPACT\",\"COMPACT\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"COMPACT\",\"COMPACT\",\"STATION WAGON - MID-SIZE\",\"STATION WAGON - MID-SIZE\",\"FULL-SIZE\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"MID-SIZE\",\"MID-SIZE\",\"STATION WAGON - MID-SIZE\",\"STATION WAGON - MID-SIZE\",\"VAN - CARGO\",\"VAN - CARGO\",\"MINIVAN\",\"MINIVAN\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"SUV\",\"SUV\",\"SUV\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"VAN - CARGO\",\"VAN - CARGO\",\"VAN - CARGO\",\"VAN - PASSENGER\",\"VAN - PASSENGER\",\"VAN - PASSENGER\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"SUV\",\"SUV\",\"SUV\",\"VAN - CARGO\",\"VAN - CARGO\",\"VAN - PASSENGER\",\"VAN - PASSENGER\",\"PICKUP TRUCK - SMALL\",\"PICKUP TRUCK - SMALL\",\"PICKUP TRUCK - SMALL\",\"PICKUP TRUCK - SMALL\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"MID-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUV\",\"SUV\",\"SUBCOMPACT\",\"MINIVAN\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"STATION WAGON - SMALL\",\"STATION WAGON - SMALL\",\"MID-SIZE\",\"MID-SIZE\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"COMPACT\",\"COMPACT\",\"MID-SIZE\",\"SUV\",\"PICKUP TRUCK - SMALL\",\"PICKUP TRUCK - SMALL\",\"PICKUP TRUCK - SMALL\",\"PICKUP TRUCK - STANDARD\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"MID-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"COMPACT\",\"COMPACT\",\"SUBCOMPACT\",\"MINICOMPACT\",\"SUBCOMPACT\",\"MINICOMPACT\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"COMPACT\",\"COMPACT\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"COMPACT\",\"MID-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"SUV\",\"SUV\",\"SUV\",\"FULL-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"SUV\",\"FULL-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"COMPACT\",\"COMPACT\",\"MINIVAN\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"SUBCOMPACT\",\"MINICOMPACT\",\"SUBCOMPACT\",\"MINICOMPACT\",\"MID-SIZE\",\"MID-SIZE\",\"STATION WAGON - MID-SIZE\",\"STATION WAGON - MID-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"SUV\",\"SUV\",\"FULL-SIZE\",\"FULL-SIZE\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"COMPACT\",\"COMPACT\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"MID-SIZE\",\"MID-SIZE\",\"SUV\",\"SUV\",\"MINIVAN\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"MID-SIZE\",\"MINIVAN\",\"SUBCOMPACT\",\"FULL-SIZE\",\"FULL-SIZE\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"MID-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"MINIVAN\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"MINICOMPACT\",\"MINICOMPACT\",\"MINICOMPACT\",\"MINICOMPACT\",\"TWO-SEATER\",\"TWO-SEATER\",\"TWO-SEATER\",\"TWO-SEATER\",\"MID-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"FULL-SIZE\",\"FULL-SIZE\",\"FULL-SIZE\",\"STATION WAGON - MID-SIZE\",\"STATION WAGON - MID-SIZE\",\"STATION WAGON - MID-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"STATION WAGON - MID-SIZE\",\"STATION WAGON - MID-SIZE\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"STATION WAGON - SMALL\",\"STATION WAGON - SMALL\",\"SUV\",\"SUV\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"STATION WAGON - SMALL\",\"STATION WAGON - SMALL\",\"COMPACT\",\"COMPACT\",\"STATION WAGON - MID-SIZE\",\"STATION WAGON - MID-SIZE\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"STATION WAGON - SMALL\",\"STATION WAGON - SMALL\",\"SUV\",\"SUV\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"FULL-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"MINIVAN\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"MINIVAN\",\"MINIVAN\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"MID-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"STATION WAGON - MID-SIZE\",\"STATION WAGON - MID-SIZE\",\"STATION WAGON - MID-SIZE\",\"STATION WAGON - MID-SIZE\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"MID-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"STATION WAGON - MID-SIZE\",\"STATION WAGON - MID-SIZE\",\"STATION WAGON - MID-SIZE\",\"STATION WAGON - MID-SIZE\",\"STATION WAGON - MID-SIZE\",\"STATION WAGON - MID-SIZE\",\"STATION WAGON - MID-SIZE\"],\"xaxis\":\"x\",\"yaxis\":\"y\",\"type\":\"histogram\"}],                        {\"template\":{\"data\":{\"histogram2dcontour\":[{\"type\":\"histogram2dcontour\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]]}],\"choropleth\":[{\"type\":\"choropleth\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}],\"histogram2d\":[{\"type\":\"histogram2d\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]]}],\"heatmap\":[{\"type\":\"heatmap\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]]}],\"heatmapgl\":[{\"type\":\"heatmapgl\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]]}],\"contourcarpet\":[{\"type\":\"contourcarpet\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}],\"contour\":[{\"type\":\"contour\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]]}],\"surface\":[{\"type\":\"surface\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]]}],\"mesh3d\":[{\"type\":\"mesh3d\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}],\"scatter\":[{\"fillpattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2},\"type\":\"scatter\"}],\"parcoords\":[{\"type\":\"parcoords\",\"line\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"scatterpolargl\":[{\"type\":\"scatterpolargl\",\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"bar\":[{\"error_x\":{\"color\":\"#2a3f5f\"},\"error_y\":{\"color\":\"#2a3f5f\"},\"marker\":{\"line\":{\"color\":\"#E5ECF6\",\"width\":0.5},\"pattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2}},\"type\":\"bar\"}],\"scattergeo\":[{\"type\":\"scattergeo\",\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"scatterpolar\":[{\"type\":\"scatterpolar\",\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"histogram\":[{\"marker\":{\"pattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2}},\"type\":\"histogram\"}],\"scattergl\":[{\"type\":\"scattergl\",\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"scatter3d\":[{\"type\":\"scatter3d\",\"line\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"scattermapbox\":[{\"type\":\"scattermapbox\",\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"scatterternary\":[{\"type\":\"scatterternary\",\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"scattercarpet\":[{\"type\":\"scattercarpet\",\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"carpet\":[{\"aaxis\":{\"endlinecolor\":\"#2a3f5f\",\"gridcolor\":\"white\",\"linecolor\":\"white\",\"minorgridcolor\":\"white\",\"startlinecolor\":\"#2a3f5f\"},\"baxis\":{\"endlinecolor\":\"#2a3f5f\",\"gridcolor\":\"white\",\"linecolor\":\"white\",\"minorgridcolor\":\"white\",\"startlinecolor\":\"#2a3f5f\"},\"type\":\"carpet\"}],\"table\":[{\"cells\":{\"fill\":{\"color\":\"#EBF0F8\"},\"line\":{\"color\":\"white\"}},\"header\":{\"fill\":{\"color\":\"#C8D4E3\"},\"line\":{\"color\":\"white\"}},\"type\":\"table\"}],\"barpolar\":[{\"marker\":{\"line\":{\"color\":\"#E5ECF6\",\"width\":0.5},\"pattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2}},\"type\":\"barpolar\"}],\"pie\":[{\"automargin\":true,\"type\":\"pie\"}]},\"layout\":{\"autotypenumbers\":\"strict\",\"colorway\":[\"#636efa\",\"#EF553B\",\"#00cc96\",\"#ab63fa\",\"#FFA15A\",\"#19d3f3\",\"#FF6692\",\"#B6E880\",\"#FF97FF\",\"#FECB52\"],\"font\":{\"color\":\"#2a3f5f\"},\"hovermode\":\"closest\",\"hoverlabel\":{\"align\":\"left\"},\"paper_bgcolor\":\"white\",\"plot_bgcolor\":\"#E5ECF6\",\"polar\":{\"bgcolor\":\"#E5ECF6\",\"angularaxis\":{\"gridcolor\":\"white\",\"linecolor\":\"white\",\"ticks\":\"\"},\"radialaxis\":{\"gridcolor\":\"white\",\"linecolor\":\"white\",\"ticks\":\"\"}},\"ternary\":{\"bgcolor\":\"#E5ECF6\",\"aaxis\":{\"gridcolor\":\"white\",\"linecolor\":\"white\",\"ticks\":\"\"},\"baxis\":{\"gridcolor\":\"white\",\"linecolor\":\"white\",\"ticks\":\"\"},\"caxis\":{\"gridcolor\":\"white\",\"linecolor\":\"white\",\"ticks\":\"\"}},\"coloraxis\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"colorscale\":{\"sequential\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"sequentialminus\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"diverging\":[[0,\"#8e0152\"],[0.1,\"#c51b7d\"],[0.2,\"#de77ae\"],[0.3,\"#f1b6da\"],[0.4,\"#fde0ef\"],[0.5,\"#f7f7f7\"],[0.6,\"#e6f5d0\"],[0.7,\"#b8e186\"],[0.8,\"#7fbc41\"],[0.9,\"#4d9221\"],[1,\"#276419\"]]},\"xaxis\":{\"gridcolor\":\"white\",\"linecolor\":\"white\",\"ticks\":\"\",\"title\":{\"standoff\":15},\"zerolinecolor\":\"white\",\"automargin\":true,\"zerolinewidth\":2},\"yaxis\":{\"gridcolor\":\"white\",\"linecolor\":\"white\",\"ticks\":\"\",\"title\":{\"standoff\":15},\"zerolinecolor\":\"white\",\"automargin\":true,\"zerolinewidth\":2},\"scene\":{\"xaxis\":{\"backgroundcolor\":\"#E5ECF6\",\"gridcolor\":\"white\",\"linecolor\":\"white\",\"showbackground\":true,\"ticks\":\"\",\"zerolinecolor\":\"white\",\"gridwidth\":2},\"yaxis\":{\"backgroundcolor\":\"#E5ECF6\",\"gridcolor\":\"white\",\"linecolor\":\"white\",\"showbackground\":true,\"ticks\":\"\",\"zerolinecolor\":\"white\",\"gridwidth\":2},\"zaxis\":{\"backgroundcolor\":\"#E5ECF6\",\"gridcolor\":\"white\",\"linecolor\":\"white\",\"showbackground\":true,\"ticks\":\"\",\"zerolinecolor\":\"white\",\"gridwidth\":2}},\"shapedefaults\":{\"line\":{\"color\":\"#2a3f5f\"}},\"annotationdefaults\":{\"arrowcolor\":\"#2a3f5f\",\"arrowhead\":0,\"arrowwidth\":1},\"geo\":{\"bgcolor\":\"white\",\"landcolor\":\"#E5ECF6\",\"subunitcolor\":\"white\",\"showland\":true,\"showlakes\":true,\"lakecolor\":\"white\"},\"title\":{\"x\":0.05},\"mapbox\":{\"style\":\"light\"}}},\"xaxis\":{\"anchor\":\"y\",\"domain\":[0.0,1.0],\"title\":{\"text\":\"VEHICLE CLASS\"}},\"yaxis\":{\"anchor\":\"x\",\"domain\":[0.0,1.0],\"title\":{\"text\":\"count\"}},\"legend\":{\"tracegroupgap\":0},\"title\":{\"text\":\"Number of trucks\"},\"barmode\":\"relative\"},                        {\"responsive\": true}                    ).then(function(){\n",
+       "<div>                            <div id=\"a295bef9-4302-4e30-8544-74c704a8c189\" class=\"plotly-graph-div\" style=\"height:525px; width:100%;\"></div>            <script type=\"text/javascript\">                require([\"plotly\"], function(Plotly) {                    window.PLOTLYENV=window.PLOTLYENV || {};                                    if (document.getElementById(\"a295bef9-4302-4e30-8544-74c704a8c189\")) {                    Plotly.newPlot(                        \"a295bef9-4302-4e30-8544-74c704a8c189\",                        [{\"alignmentgroup\":\"True\",\"bingroup\":\"x\",\"hovertemplate\":\"VEHICLE CLASS=%{x}\\u003cbr\\u003ecount=%{y}\\u003cextra\\u003e\\u003c\\u002fextra\\u003e\",\"legendgroup\":\"\",\"marker\":{\"color\":\"#636efa\",\"pattern\":{\"shape\":\"\"}},\"name\":\"\",\"offsetgroup\":\"\",\"orientation\":\"v\",\"showlegend\":false,\"x\":[\"COMPACT\",\"COMPACT\",\"MID-SIZE\",\"MID-SIZE\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"MID-SIZE\",\"STATION WAGON - MID-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"COMPACT\",\"COMPACT\",\"MINICOMPACT\",\"MINICOMPACT\",\"TWO-SEATER\",\"TWO-SEATER\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"STATION WAGON - SMALL\",\"STATION WAGON - SMALL\",\"COMPACT\",\"COMPACT\",\"STATION WAGON - SMALL\",\"MID-SIZE\",\"FULL-SIZE\",\"FULL-SIZE\",\"TWO-SEATER\",\"MINICOMPACT\",\"COMPACT\",\"SUV\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"TWO-SEATER\",\"MID-SIZE\",\"FULL-SIZE\",\"FULL-SIZE\",\"FULL-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"FULL-SIZE\",\"MID-SIZE\",\"SUV\",\"MID-SIZE\",\"VAN - CARGO\",\"VAN - PASSENGER\",\"VAN - CARGO\",\"VAN - PASSENGER\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"VAN - CARGO\",\"VAN - CARGO\",\"VAN - CARGO\",\"VAN - PASSENGER\",\"VAN - PASSENGER\",\"VAN - PASSENGER\",\"FULL-SIZE\",\"FULL-SIZE\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"SUV\",\"MID-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"PICKUP TRUCK - SMALL\",\"PICKUP TRUCK - SMALL\",\"PICKUP TRUCK - SMALL\",\"PICKUP TRUCK - SMALL\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"MINIVAN\",\"FULL-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"FULL-SIZE\",\"FULL-SIZE\",\"FULL-SIZE\",\"FULL-SIZE\",\"FULL-SIZE\",\"FULL-SIZE\",\"FULL-SIZE\",\"COMPACT\",\"COMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"MINIVAN\",\"MINIVAN\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"STATION WAGON - SMALL\",\"STATION WAGON - SMALL\",\"MINIVAN\",\"MINIVAN\",\"MINIVAN\",\"MINIVAN\",\"MINIVAN\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"SUV\",\"SUV\",\"SUV\",\"MINIVAN\",\"MINIVAN\",\"MINIVAN\",\"MINIVAN\",\"MINIVAN\",\"MINIVAN\",\"MINIVAN\",\"MINIVAN\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"VAN - CARGO\",\"VAN - CARGO\",\"VAN - CARGO\",\"VAN - PASSENGER\",\"VAN - PASSENGER\",\"VAN - CARGO\",\"VAN - CARGO\",\"VAN - CARGO\",\"VAN - PASSENGER\",\"VAN - PASSENGER\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"TWO-SEATER\",\"TWO-SEATER\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"FULL-SIZE\",\"VAN - PASSENGER\",\"VAN - PASSENGER\",\"VAN - PASSENGER\",\"VAN - CARGO\",\"VAN - CARGO\",\"VAN - CARGO\",\"VAN - CARGO\",\"VAN - CARGO\",\"COMPACT\",\"COMPACT\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"COMPACT\",\"COMPACT\",\"STATION WAGON - MID-SIZE\",\"STATION WAGON - MID-SIZE\",\"FULL-SIZE\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"MID-SIZE\",\"MID-SIZE\",\"STATION WAGON - MID-SIZE\",\"STATION WAGON - MID-SIZE\",\"VAN - CARGO\",\"VAN - CARGO\",\"MINIVAN\",\"MINIVAN\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"SUV\",\"SUV\",\"SUV\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"VAN - CARGO\",\"VAN - CARGO\",\"VAN - CARGO\",\"VAN - PASSENGER\",\"VAN - PASSENGER\",\"VAN - PASSENGER\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"SUV\",\"SUV\",\"SUV\",\"VAN - CARGO\",\"VAN - CARGO\",\"VAN - PASSENGER\",\"VAN - PASSENGER\",\"PICKUP TRUCK - SMALL\",\"PICKUP TRUCK - SMALL\",\"PICKUP TRUCK - SMALL\",\"PICKUP TRUCK - SMALL\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"MID-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUV\",\"SUV\",\"SUBCOMPACT\",\"MINIVAN\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"STATION WAGON - SMALL\",\"STATION WAGON - SMALL\",\"MID-SIZE\",\"MID-SIZE\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"COMPACT\",\"COMPACT\",\"MID-SIZE\",\"SUV\",\"PICKUP TRUCK - SMALL\",\"PICKUP TRUCK - SMALL\",\"PICKUP TRUCK - SMALL\",\"PICKUP TRUCK - STANDARD\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"MID-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"COMPACT\",\"COMPACT\",\"SUBCOMPACT\",\"MINICOMPACT\",\"SUBCOMPACT\",\"MINICOMPACT\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"COMPACT\",\"COMPACT\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"COMPACT\",\"MID-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"SUV\",\"SUV\",\"SUV\",\"FULL-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"SUV\",\"FULL-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"COMPACT\",\"COMPACT\",\"MINIVAN\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"SUBCOMPACT\",\"MINICOMPACT\",\"SUBCOMPACT\",\"MINICOMPACT\",\"MID-SIZE\",\"MID-SIZE\",\"STATION WAGON - MID-SIZE\",\"STATION WAGON - MID-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"SUV\",\"SUV\",\"FULL-SIZE\",\"FULL-SIZE\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"COMPACT\",\"COMPACT\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"MID-SIZE\",\"MID-SIZE\",\"SUV\",\"SUV\",\"MINIVAN\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"MID-SIZE\",\"MINIVAN\",\"SUBCOMPACT\",\"FULL-SIZE\",\"FULL-SIZE\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"MID-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"MINIVAN\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"MINICOMPACT\",\"MINICOMPACT\",\"MINICOMPACT\",\"MINICOMPACT\",\"TWO-SEATER\",\"TWO-SEATER\",\"TWO-SEATER\",\"TWO-SEATER\",\"MID-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"FULL-SIZE\",\"FULL-SIZE\",\"FULL-SIZE\",\"STATION WAGON - MID-SIZE\",\"STATION WAGON - MID-SIZE\",\"STATION WAGON - MID-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"STATION WAGON - MID-SIZE\",\"STATION WAGON - MID-SIZE\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"STATION WAGON - SMALL\",\"STATION WAGON - SMALL\",\"SUV\",\"SUV\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"STATION WAGON - SMALL\",\"STATION WAGON - SMALL\",\"COMPACT\",\"COMPACT\",\"STATION WAGON - MID-SIZE\",\"STATION WAGON - MID-SIZE\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"STATION WAGON - SMALL\",\"STATION WAGON - SMALL\",\"SUV\",\"SUV\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"FULL-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"SUV\",\"MINIVAN\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"PICKUP TRUCK - STANDARD\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"MINIVAN\",\"MINIVAN\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"MID-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"STATION WAGON - MID-SIZE\",\"STATION WAGON - MID-SIZE\",\"STATION WAGON - MID-SIZE\",\"STATION WAGON - MID-SIZE\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"SUBCOMPACT\",\"COMPACT\",\"COMPACT\",\"COMPACT\",\"MID-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"MID-SIZE\",\"STATION WAGON - MID-SIZE\",\"STATION WAGON - MID-SIZE\",\"STATION WAGON - MID-SIZE\",\"STATION WAGON - MID-SIZE\",\"STATION WAGON - MID-SIZE\",\"STATION WAGON - MID-SIZE\",\"STATION WAGON - MID-SIZE\"],\"xaxis\":\"x\",\"yaxis\":\"y\",\"type\":\"histogram\"}],                        {\"template\":{\"data\":{\"histogram2dcontour\":[{\"type\":\"histogram2dcontour\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]]}],\"choropleth\":[{\"type\":\"choropleth\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}],\"histogram2d\":[{\"type\":\"histogram2d\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]]}],\"heatmap\":[{\"type\":\"heatmap\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]]}],\"heatmapgl\":[{\"type\":\"heatmapgl\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]]}],\"contourcarpet\":[{\"type\":\"contourcarpet\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}],\"contour\":[{\"type\":\"contour\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]]}],\"surface\":[{\"type\":\"surface\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]]}],\"mesh3d\":[{\"type\":\"mesh3d\",\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}],\"scatter\":[{\"fillpattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2},\"type\":\"scatter\"}],\"parcoords\":[{\"type\":\"parcoords\",\"line\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"scatterpolargl\":[{\"type\":\"scatterpolargl\",\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"bar\":[{\"error_x\":{\"color\":\"#2a3f5f\"},\"error_y\":{\"color\":\"#2a3f5f\"},\"marker\":{\"line\":{\"color\":\"#E5ECF6\",\"width\":0.5},\"pattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2}},\"type\":\"bar\"}],\"scattergeo\":[{\"type\":\"scattergeo\",\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"scatterpolar\":[{\"type\":\"scatterpolar\",\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"histogram\":[{\"marker\":{\"pattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2}},\"type\":\"histogram\"}],\"scattergl\":[{\"type\":\"scattergl\",\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"scatter3d\":[{\"type\":\"scatter3d\",\"line\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"scattermapbox\":[{\"type\":\"scattermapbox\",\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"scatterternary\":[{\"type\":\"scatterternary\",\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"scattercarpet\":[{\"type\":\"scattercarpet\",\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}}}],\"carpet\":[{\"aaxis\":{\"endlinecolor\":\"#2a3f5f\",\"gridcolor\":\"white\",\"linecolor\":\"white\",\"minorgridcolor\":\"white\",\"startlinecolor\":\"#2a3f5f\"},\"baxis\":{\"endlinecolor\":\"#2a3f5f\",\"gridcolor\":\"white\",\"linecolor\":\"white\",\"minorgridcolor\":\"white\",\"startlinecolor\":\"#2a3f5f\"},\"type\":\"carpet\"}],\"table\":[{\"cells\":{\"fill\":{\"color\":\"#EBF0F8\"},\"line\":{\"color\":\"white\"}},\"header\":{\"fill\":{\"color\":\"#C8D4E3\"},\"line\":{\"color\":\"white\"}},\"type\":\"table\"}],\"barpolar\":[{\"marker\":{\"line\":{\"color\":\"#E5ECF6\",\"width\":0.5},\"pattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2}},\"type\":\"barpolar\"}],\"pie\":[{\"automargin\":true,\"type\":\"pie\"}]},\"layout\":{\"autotypenumbers\":\"strict\",\"colorway\":[\"#636efa\",\"#EF553B\",\"#00cc96\",\"#ab63fa\",\"#FFA15A\",\"#19d3f3\",\"#FF6692\",\"#B6E880\",\"#FF97FF\",\"#FECB52\"],\"font\":{\"color\":\"#2a3f5f\"},\"hovermode\":\"closest\",\"hoverlabel\":{\"align\":\"left\"},\"paper_bgcolor\":\"white\",\"plot_bgcolor\":\"#E5ECF6\",\"polar\":{\"bgcolor\":\"#E5ECF6\",\"angularaxis\":{\"gridcolor\":\"white\",\"linecolor\":\"white\",\"ticks\":\"\"},\"radialaxis\":{\"gridcolor\":\"white\",\"linecolor\":\"white\",\"ticks\":\"\"}},\"ternary\":{\"bgcolor\":\"#E5ECF6\",\"aaxis\":{\"gridcolor\":\"white\",\"linecolor\":\"white\",\"ticks\":\"\"},\"baxis\":{\"gridcolor\":\"white\",\"linecolor\":\"white\",\"ticks\":\"\"},\"caxis\":{\"gridcolor\":\"white\",\"linecolor\":\"white\",\"ticks\":\"\"}},\"coloraxis\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"colorscale\":{\"sequential\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"sequentialminus\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"diverging\":[[0,\"#8e0152\"],[0.1,\"#c51b7d\"],[0.2,\"#de77ae\"],[0.3,\"#f1b6da\"],[0.4,\"#fde0ef\"],[0.5,\"#f7f7f7\"],[0.6,\"#e6f5d0\"],[0.7,\"#b8e186\"],[0.8,\"#7fbc41\"],[0.9,\"#4d9221\"],[1,\"#276419\"]]},\"xaxis\":{\"gridcolor\":\"white\",\"linecolor\":\"white\",\"ticks\":\"\",\"title\":{\"standoff\":15},\"zerolinecolor\":\"white\",\"automargin\":true,\"zerolinewidth\":2},\"yaxis\":{\"gridcolor\":\"white\",\"linecolor\":\"white\",\"ticks\":\"\",\"title\":{\"standoff\":15},\"zerolinecolor\":\"white\",\"automargin\":true,\"zerolinewidth\":2},\"scene\":{\"xaxis\":{\"backgroundcolor\":\"#E5ECF6\",\"gridcolor\":\"white\",\"linecolor\":\"white\",\"showbackground\":true,\"ticks\":\"\",\"zerolinecolor\":\"white\",\"gridwidth\":2},\"yaxis\":{\"backgroundcolor\":\"#E5ECF6\",\"gridcolor\":\"white\",\"linecolor\":\"white\",\"showbackground\":true,\"ticks\":\"\",\"zerolinecolor\":\"white\",\"gridwidth\":2},\"zaxis\":{\"backgroundcolor\":\"#E5ECF6\",\"gridcolor\":\"white\",\"linecolor\":\"white\",\"showbackground\":true,\"ticks\":\"\",\"zerolinecolor\":\"white\",\"gridwidth\":2}},\"shapedefaults\":{\"line\":{\"color\":\"#2a3f5f\"}},\"annotationdefaults\":{\"arrowcolor\":\"#2a3f5f\",\"arrowhead\":0,\"arrowwidth\":1},\"geo\":{\"bgcolor\":\"white\",\"landcolor\":\"#E5ECF6\",\"subunitcolor\":\"white\",\"showland\":true,\"showlakes\":true,\"lakecolor\":\"white\"},\"title\":{\"x\":0.05},\"mapbox\":{\"style\":\"light\"}}},\"xaxis\":{\"anchor\":\"y\",\"domain\":[0.0,1.0],\"title\":{\"text\":\"VEHICLE CLASS\"}},\"yaxis\":{\"anchor\":\"x\",\"domain\":[0.0,1.0],\"title\":{\"text\":\"count\"}},\"legend\":{\"tracegroupgap\":0},\"title\":{\"text\":\"Number of trucks\"},\"barmode\":\"relative\"},                        {\"responsive\": true}                    ).then(function(){\n",
        "                            \n",
-       "var gd = document.getElementById('12812b0e-28ee-4a9f-93d7-deb5956b3eb0');\n",
+       "var gd = document.getElementById('a295bef9-4302-4e30-8544-74c704a8c189');\n",
        "var x = new MutationObserver(function (mutations, observer) {{\n",
        "        var display = window.getComputedStyle(gd).display;\n",
        "        if (!display || display === 'none') {{\n",
@@ -2024,19 +2024,19 @@
   {
    "cell_type": "code",
    "execution_count": 7,
-   "id": "27ff8f1e",
+   "id": "6040e57b",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-09-06T05:00:36.936162Z",
-     "iopub.status.busy": "2024-09-06T05:00:36.935709Z",
-     "iopub.status.idle": "2024-09-06T05:00:37.339621Z",
-     "shell.execute_reply": "2024-09-06T05:00:37.338353Z"
+     "iopub.execute_input": "2024-09-06T05:08:27.015156Z",
+     "iopub.status.busy": "2024-09-06T05:08:27.014681Z",
+     "iopub.status.idle": "2024-09-06T05:08:27.413480Z",
+     "shell.execute_reply": "2024-09-06T05:08:27.412319Z"
     },
     "papermill": {
-     "duration": 0.422438,
-     "end_time": "2024-09-06T05:00:37.342360",
+     "duration": 0.417238,
+     "end_time": "2024-09-06T05:08:27.416281",
      "exception": false,
-     "start_time": "2024-09-06T05:00:36.919922",
+     "start_time": "2024-09-06T05:08:26.999043",
      "status": "completed"
     },
     "tags": []
@@ -2060,19 +2060,19 @@
   {
    "cell_type": "code",
    "execution_count": 8,
-   "id": "fe2c5129",
+   "id": "815af5b9",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-09-06T05:00:37.374415Z",
-     "iopub.status.busy": "2024-09-06T05:00:37.373308Z",
-     "iopub.status.idle": "2024-09-06T05:00:38.545508Z",
-     "shell.execute_reply": "2024-09-06T05:00:38.543936Z"
+     "iopub.execute_input": "2024-09-06T05:08:27.447732Z",
+     "iopub.status.busy": "2024-09-06T05:08:27.446843Z",
+     "iopub.status.idle": "2024-09-06T05:08:28.555985Z",
+     "shell.execute_reply": "2024-09-06T05:08:28.554759Z"
     },
     "papermill": {
-     "duration": 1.191287,
-     "end_time": "2024-09-06T05:00:38.548295",
+     "duration": 1.127528,
+     "end_time": "2024-09-06T05:08:28.558374",
      "exception": false,
-     "start_time": "2024-09-06T05:00:37.357008",
+     "start_time": "2024-09-06T05:08:27.430846",
      "status": "completed"
     },
     "tags": []
@@ -2140,19 +2140,19 @@
   {
    "cell_type": "code",
    "execution_count": 9,
-   "id": "898fc359",
+   "id": "ea904cce",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-09-06T05:00:38.581731Z",
-     "iopub.status.busy": "2024-09-06T05:00:38.580695Z",
-     "iopub.status.idle": "2024-09-06T05:00:46.712103Z",
-     "shell.execute_reply": "2024-09-06T05:00:46.710942Z"
+     "iopub.execute_input": "2024-09-06T05:08:28.591593Z",
+     "iopub.status.busy": "2024-09-06T05:08:28.590561Z",
+     "iopub.status.idle": "2024-09-06T05:08:36.790387Z",
+     "shell.execute_reply": "2024-09-06T05:08:36.789116Z"
     },
     "papermill": {
-     "duration": 8.153698,
-     "end_time": "2024-09-06T05:00:46.717500",
+     "duration": 8.221073,
+     "end_time": "2024-09-06T05:08:36.794814",
      "exception": false,
-     "start_time": "2024-09-06T05:00:38.563802",
+     "start_time": "2024-09-06T05:08:28.573741",
      "status": "completed"
     },
     "tags": []
@@ -2202,19 +2202,19 @@
   {
    "cell_type": "code",
    "execution_count": 10,
-   "id": "3335feba",
+   "id": "bcae152f",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-09-06T05:00:46.759064Z",
-     "iopub.status.busy": "2024-09-06T05:00:46.758607Z",
-     "iopub.status.idle": "2024-09-06T05:00:48.448069Z",
-     "shell.execute_reply": "2024-09-06T05:00:48.446865Z"
+     "iopub.execute_input": "2024-09-06T05:08:36.834063Z",
+     "iopub.status.busy": "2024-09-06T05:08:36.833594Z",
+     "iopub.status.idle": "2024-09-06T05:08:38.554314Z",
+     "shell.execute_reply": "2024-09-06T05:08:38.553047Z"
     },
     "papermill": {
-     "duration": 1.713661,
-     "end_time": "2024-09-06T05:00:48.451108",
+     "duration": 1.743353,
+     "end_time": "2024-09-06T05:08:38.556814",
      "exception": false,
-     "start_time": "2024-09-06T05:00:46.737447",
+     "start_time": "2024-09-06T05:08:36.813461",
      "status": "completed"
     },
     "tags": []
@@ -2252,13 +2252,13 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "22debb76",
+   "id": "7eabb465",
    "metadata": {
     "papermill": {
-     "duration": 0.019333,
-     "end_time": "2024-09-06T05:00:48.490497",
+     "duration": 0.019745,
+     "end_time": "2024-09-06T05:08:38.596416",
      "exception": false,
-     "start_time": "2024-09-06T05:00:48.471164",
+     "start_time": "2024-09-06T05:08:38.576671",
      "status": "completed"
     },
     "tags": []
@@ -2302,14 +2302,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 22.542923,
-   "end_time": "2024-09-06T05:00:49.634730",
+   "duration": 22.325154,
+   "end_time": "2024-09-06T05:08:39.740640",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2024-09-06T05:00:27.091807",
+   "start_time": "2024-09-06T05:08:17.415486",
    "version": "2.6.0"
   }
  },
